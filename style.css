@@ -1,0 +1,32 @@
+body{
+background: #00467F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A5CC82, #00467F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A5CC82, #00467F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-size:30px;    
+}
+#d1{
+float:left;
+}
+#d2{
+float:right;
+}
+#webcam-view-title,#snapshot-view-title{
+background-color:aquamarine;
+border-radius:25px;
+}
+#webcam-view-title{
+background-color:aquamarine;
+border-radius:25px;
+}
+#p1,#p2{
+background-color:aquamarine;
+border-radius:25px;
+}
+#webcam,#snapshot{
+border:5px black dotted;
+height:300px;
+width:310px;
+}
+#title{
+font-size:25px;
+}
